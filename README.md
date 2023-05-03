@@ -1,4 +1,4 @@
-# Portfolio
+# portfolio
 
 Built from scratch for <i>INF250: Introduction to Web Development</i>'s Final Project
 
